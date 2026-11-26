@@ -1,0 +1,79 @@
+# news-image-20261126 — STORIES.md (audit trail)
+
+Entry: `main.ts` draws one 1024x1024 PNG to `/output/entry.png`.
+50 stories, 10 regions, 25 fields (counts computed by the program from the data below).
+
+## Leads (3, with 2-line detail + icon)
+1. HOUTHI DRONES HIT SAUDI RAS TANURA REFINERY; BRENT TOPS $94 — MIDDLE EAST / ENERGY — SimpleLife daily 26 Nov; Observer Voice 26 Nov
+2. TRUMP UNVEILS TARIFF PLAN ON 14 TRADING PARTNERS — NORTH AMERICA / TRADE — SimpleLife 26 Nov; Taiwan Executive Yuan reply on the 26th; Reuters Morning Bid
+3. EU LEADERS OPEN TWO-DAY SUMMIT ON BUDGET, UKRAINE CASH — EUROPE / POLITICS — Press Club Brussels Europe programme, Thu 26 Nov 2026
+
+## List (47)
+4. TWO OIL TANKERS HIT NAVAL MINES IN THE STRAIT OF HORMUZ — Observer Voice 26 Nov
+5. ISRAEL STRIKES HAMAS COLONEL IN GAZA; CEASEFIRE UNDER STRAIN — Observer Voice 26 Nov
+6. UKRAINE HITS TWO RUSSIAN REFINERIES OVERNIGHT; PUTIN VOWS REPLY — Observer Voice 26 Nov
+7. RUSSIA'S OWN FIGURES: NEARLY 500,000 LOST IN UKRAINE WAR — Jagran Josh 26 Nov
+8. POLAND ASKS NATO TO DOWN RUSSIAN MISSILES OVER UKRAINE — homevo, published 2026-11-26T00:27:13Z
+9. FRANCE OFFERS ENVOY TO MOSCOW IF EUROPE GETS FULL SEAT AT TALKS — homevo, 01:27 26 Nov
+10. BANK OF KOREA DECIDES LAST RATES CALL OF 2026; HIKE EXPECTED — InvestingLive calendar; Reuters poll (32/34 expect hike to 3.25%); decision due ~01:00 GMT 26 Nov
+11. BOJ'S TAMURA TALKS HAWKISH BEFORE DECEMBER RATE DECISION — InvestingLive calendar, 01:00 GMT 26 Nov
+12. US TIGHTENS REMOTE AI CHIP ACCESS; NVIDIA B300 CHIPS SEEK BUYERS — SimpleLife 26 Nov
+13. ECONOMISTS WARN AI BUBBLE BURST COULD TOP THE DOT-COM CRASH — SimpleLife 26 Nov
+14. ASIAN MARKETS STEADY: ASX UP, GOLD $3,570, BRENT $94.65 — MarketIndex ASX live, Thu 26 Nov
+15. US MARKETS SHUT FOR THANKSGIVING; BOND MARKET CLOSED TOO — InvestingLive; Saxo holiday schedule
+16. NOR'EASTER SLAMS US EAST COAST ON THANKSGIVING; 250M IN ITS PATH — Fox Weather live updates 26 Nov
+17. US ATTORNEY GENERAL DODGES QUESTIONS ON NVIDIA PROBE — Jagran Josh 26 Nov
+18. BEPICOLOMBO REACHES MERCURY ORBIT AFTER EIGHT-YEAR JOURNEY — Newsmriti, 26 Nov 00:02
+19. CLOSE-UP IMAGES OF ASTEROID HIT TO TEST EARTH DEFENCE REVEALED — Jagran Josh 26 Nov
+20. DURAN DURAN GUITARIST ANDY TAYLOR DIES AT 65 — The Hindu via Newsmriti, 26 Nov 04:16
+21. GUKESH HELD TO 20-MOVE DRAW BY SINDAROV IN WORLD CHESS FINAL — Chess/Sportstar via Newsmriti, 26 Nov 01:00
+22. IPL 2027 AUCTION DRAWS 1,220 PLAYER REGISTRATIONS — SelfStudys 26 Nov
+23. INDIA A FACE SRI LANKA A IN RISING STARS SEMI-FINAL IN DOHA — BCCI via Newsmriti, 26 Nov
+24. INDIA MARKS CONSTITUTION DAY AND 18 YEARS SINCE 26/11 ATTACKS — Observer Voice / SelfStudys 26 Nov
+25. IITS TO ADD 6,000 SEATS IN ROBOTICS, AI AND SPACE TECHNOLOGY — SelfStudys / Studmentor 26 Nov
+26. INDIA'S SPACE ECONOMY TO GROW FROM $9BN TO $45BN IN A DECADE — Studmentor 26 Nov
+27. INDIA ANNOUNCES RS15,000-CRORE PACKAGE FOR NEPAL AFTER MODI TALKS — SelfStudys 26 Nov
+28. INDIA URGES HUMAN CONTROL OVER AI IN MILITARY OPERATIONS — SelfStudys 26 Nov
+29. FLIPKART CEO KALYAN KRISHNAMURTHY TO STEP DOWN IN DECEMBER — SelfStudys 26 Nov
+30. TWO INDIANS HURT IN RIYADH TOWER ATTACK; INDIA CONDEMNS STRIKE — SelfStudys / Observer Voice 26 Nov
+31. SHEIKH HASINA SEEKS RETURN TO BANGLADESH ON DECEMBER 16 — SelfStudys 26 Nov
+32. BANGLADESH RAISES GARMENT MINIMUM WAGE BY 36 PERCENT — SelfStudys 26 Nov
+33. BANGLADESH DEPLOYS 108 BORDER GUARD PLATOONS AMID UNREST FEARS — homevo 26 Nov
+34. NORTH KOREA ORDERS SWITZERLAND TO CLOSE PYONGYANG OFFICE — SelfStudys / Newsmriti 26 Nov
+35. SOLOMON ISLANDS AND AUSTRALIA SIGN HISTORIC SECURITY TREATY — Observer Voice 26 Nov
+36. COLOMBIA POLICE STORM SUPERMARKET, FREE 20 HELD HOSTAGE 17 HOURS — Jagran Josh 26 Nov
+37. UN CHIEF PRAISES COLOMBIA'S DECADE OF PEACE PROGRESS — Studmentor 26 Nov
+38. BRAZIL MOSQUITOES CUT VIRAL INFECTIONS BY 68 PERCENT — Studmentor 26 Nov
+39. ISLAND SCHOOL LETS FAMILIES PAY TUITION WITH COCONUTS — Studmentor 26 Nov
+40. EMIRATES TOPS GLOBAL AIRLINE RANKINGS — Studmentor 26 Nov
+41. TURKISH MILITARY HELICOPTER CRASHES IN TRAINING; FIVE KILLED — homevo 26 Nov
+42. GOOGLE FACES $146M LEGAL ACTION IN MALAYSIA — homevo 26 Nov
+43. US INTELLIGENCE AGENCIES SUSPECTED OF HACKING; TRACE POINTS TO CHINA — SimpleLife 26 Nov
+44. US AIR FORCE UNVEILS F-15EX FIGHTERS AT KADENA, OKINAWA — SimpleLife 26 Nov
+45. TWO CHILDREN AMONG SIX DEAD IN PLANE CRASH OFF MISSISSIPPI COAST — Newsmriti 26 Nov
+46. TEMPUS TO ACQUIRE PERSONALIS IN $600M MERGER DEAL — Newsmriti 26 Nov
+47. RAMAYANA BOX OFFICE DAY 20: SECOND RS1,000-CRORE BOLLYWOOD FILM — Newsmriti / IMDb 26 Nov
+48. ECOWAS UNVEILS ROADMAP FOR JOINT SECURITY UNIT BY END 2027 — homevo 26 Nov
+49. SAUDI NATIONAL FREED FROM SUSPECTED IS CAPTORS IN NIGER — homevo 26 Nov
+50. XI GRAFT PROBE OF SHANGHAI RISING STAR UPENDS PATH TO POWER — Jagran Josh 26 Nov
+
+## UTC timeline anchors (all verified 26 Nov 2026 times)
+00:27Z Poland asks NATO — 01:00Z Bank of Korea decides — 01:00Z BoJ's Tamura speaks —
+01:27Z France offers envoy — 05:00Z Thanksgiving dawns in the US — 07:15Z EU leaders arrive —
+09:00Z Euro Summit opens — 12:00Z German, Romanian FMs in Berlin.
+
+## EXCLUDED on date check (first reported 24–25 Nov, not 26 Nov)
+- Cairo fuel-tanker fire killing 30+ (25 Nov — was the 1125 winner's lead)
+- Pakistan's first astronaut to Tiangong (25 Nov — was in the 1125 winner)
+- Vaibhav Sooryavanshi 204 off 53 balls (match 24 Nov)
+- Macy's 100th parade postponed to Sat (announcement 25 Nov; the 26 Nov storm itself is story 16)
+- Fed Beige Book (25 Nov), Taiwan Taiex close (25 Nov), Champions League results (25 Nov),
+  England T20I win over Australia (24 Nov)
+
+## Caveats
+- Built ~00:30–01:00 UTC on 26 Nov, so this is a morning edition: stories first reported
+  up to ~01:00 UTC. The day's later news (Europe morning, US Thanksgiving Day) is not in it.
+  A rebuild later on 26–27 Nov with full-day news would be stronger; this entry is the
+  verified morning-edition baseline.
+- Bank of Korea outcome was not yet announced at build time: the story is phrased as the
+  decision event with the hike expected (Reuters poll 32/34), no outcome claimed.
